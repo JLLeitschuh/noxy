@@ -114,7 +114,7 @@
                         <updatePolicy>${project.updatePolicy}</updatePolicy>
                     </releases>
                     <id>spinn3r-public</id>
-                    <url>http://public.maven.spinn3r.com/</url>
+                    <url>https://public.maven.spinn3r.com/</url>
                 </repository>
 
             </repositories>
